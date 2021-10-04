@@ -1,0 +1,10 @@
+
+Nowadays heart stroke cases are increased because people are not taking care abouttheir healthy habits, and food.
+They are getting heart stroke in the early age.Rajesh, N., T, M., Hafeez, S., & Krishna, H.
+ (2018) are utilized Naïve Bayes algorithm to predict the heart disease. 
+ This is only effective when the dataset is small.
+ It failed to give accurate result when we train the model using large dataset. 
+ I am implementing a web application that can predict the person is having the chances of getting heartstroke.
+ To implement this project I am taking a real time dataset related to heart stroke that is available publicly inwebsites.
+ I will analyze and apply machine learning techniques on the heart stroke dataset to give the accurate prediction about occurrence of heart stroke. 
+ This project will help the people reduce the chances of happening heart strokes.

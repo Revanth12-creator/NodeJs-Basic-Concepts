@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: aliceblue;
+        }
+        h1{
+            color: red;
+            text-align: center;
+        }
+        p{
+            color:black;
+            text-align: center;
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <h1>I am the nodeJS sever</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam sunt doloribus quae aliquid numquam eveniet aliquam doloremque architecto sequi mollitia provident
+         ex praesentium placeat animi, temporibus, molestiae voluptates assumenda inventore.
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis architecto excepturi molestiae placeat beatae unde iste, veritatis reiciendis quis
+        , sapiente possimus quo mollitia maiores esse nisi ipsam dolorum vero! Reiciendis?
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit accusamus deserunt omnis aliquid laboriosam quas minus et a sunt illo?</p>
+   </body>
+</html>

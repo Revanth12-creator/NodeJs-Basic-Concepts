@@ -1,0 +1,12 @@
+1.module---module is nothimg but it  is a file.
+2.we have 3 type of modules
+  a.Core Modules   --core module are built-in modules no need to install we can directly import this
+  b.Local Modules  --Local modles 
+  c.hird-party Modules
+
+
+how to import core modules with the help og requore() function see below
+
+let fs=require("fs");//here imported FS(File System) module
+let os=require("os");//here imported )S(Opereating System) module
+let http=require("http");//here imported http module
